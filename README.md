@@ -4,7 +4,7 @@
 [![Linkedin: abhinandanmani](https://img.shields.io/badge/-abhinandanmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinandanmani/)](https://www.linkedin.com/in/abhinandanmani/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/craggi?label=follow&style=social)](https://github.com/craggi)
 
-***Hi, I'm Abhinandan, a passionate self-taught Data Scientist from India.
+**Hi, I'm Abhinandan, a passionate self-taught Data Scientist from India.
 
 
 

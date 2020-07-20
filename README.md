@@ -5,10 +5,10 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/craggi?label=follow&style=social)](https://github.com/craggi)
 
 Hi, I'm Abhinandan, a passionate self-taught Data Scientist from India.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 -  👨🏽‍💻𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿
 - :telescope: I'm currently exploring Neural Network :alien:
